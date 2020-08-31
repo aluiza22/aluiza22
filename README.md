@@ -1,4 +1,5 @@
-### Hey, you 👋, my name is Ana
+### Hey 👋 
+#### My name is Ana
 #### I'm a software developer
 Born and raised in Brazil :brazil:, but currently living in the United States :us:
 I develop websites and web systems since 2013, my heart belongs to frontend, but I also enjoy backend ~~sometimes~~.
