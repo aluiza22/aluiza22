@@ -11,13 +11,20 @@ Junior Skills: **React / React Native**
 
 :heart_decoration: Fun fact: I'm addicted to spreadsheets (and food)
 
-📫 **How to reach me: **
+📫 How to reach me:
+
 :email: [hey@anadev.com.br](mailto:hey@anadev.com.br)
+
 :computer: [https://anadev.com.br/](https://anadev.com.br/)
+
 :octocat: [https://github.com/aluiza22](https://github.com/aluiza22)
+
 :pencil2: [https://codepen.io/anadev22](https://codepen.io/anadev22)
+
 :briefcase: [https://www.linkedin.com/in/aluizasilva22/](https://www.linkedin.com/in/aluizasilva22/)
+
 :camera: [https://www.instagram.com/nalu2204/](https://www.instagram.com/nalu2204/)
+
 :bird: [https://twitter.com/anadev22](https://twitter.com/anadev22)
 
 
